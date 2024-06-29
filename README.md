@@ -3,7 +3,7 @@ GitHub repository for Energy and the Environment HVAC local temperature and ener
 
 What began as adding insulation to rooftop ducts of HVAC units and modifying building use is now daily monitoring average temperature and monthly energy use.
 
-This is about how to apply what I learned about remote data access during COVID-19 to get local temperature data and energy use for model fitting and improvement. Three workbooks were created to track the data.
+This is about how to apply what I learned about remote data access during COVID-19 to get local temperature data and energy use for model fitting and improvement. Three workbooks were created to track the data. I have yet to learn how to do this.
 
 The first was manually gathering the information from the National Weather Service and NV Energy and putting them together to form an initial model for heating and cooling power consumption according to average billing period temperature.
 
